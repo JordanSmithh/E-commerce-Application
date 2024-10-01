@@ -23,6 +23,7 @@ nav .logo{
     font-weight: bold;
     text-transform: uppercase;
     color: #fff;
+    font-family: lucida;
 }
 nav ul{
     list-style: none;
