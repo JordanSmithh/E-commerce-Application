@@ -65,6 +65,16 @@ main{
     border-radius: 1rem;
 
 }
+footer{
+  position: absolute;
+  bottom: 1rem;
+  left: 3vw;
+  right: 50vw;
+  background-color: transparent;
+  padding: 1rem;
+  color: black;
+  text-shadow: white;
+}
 body.products main,
 body.checkout main{
     right: 0;
