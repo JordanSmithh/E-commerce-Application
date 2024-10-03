@@ -45,6 +45,8 @@ nav ul li a{
 nav ul li a:hover{
     background: rgba(0,0,0,0.7);
     border-radius: 6px;
+    text-decoration: none;
+    color: white;
 }
 img{
     width: 100%;
