@@ -1,3 +1,6 @@
 body {
-    background-image: url(/img/RegisterPageBacimg.jpg);
+    background-image: url(../img/RegisterPageBacimg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }

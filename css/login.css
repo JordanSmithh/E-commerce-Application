@@ -1,3 +1,6 @@
 body {
-    background-image: url(/img/LoginBackimg.jpg);
+    background-image: url(../img/LoginBackimg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
