@@ -1,36 +1,69 @@
-# E-commerce-Application
+**E-commerce Supplement Shop**
 
+Welcome to our **E-commerce Supplement Shop**\! This capstone project represents the culmination of our learning journey at Year Up United's Frontend Development program. As a team, we aimed to build a update and improve Jordan Smith's e-commerce platform for supplements, focusing on key foundational principles and collaborative development. 
 
-Homepage/ index.html
-- I added a introduction to my shop and explain what we do and can provide for the customers.
+**Project Goals**
 
+*   **Demonstrate Core Frontend Skills:** Apply our knowledge of HTML, CSS, JavaScript, and responsive design principles to create a user-friendly and visually appealing website.
+*   **Collaborate Effectively:** Work as a team to plan, design, and develop the project, leveraging each team member's strengths.
+*   **Build a Foundation for Future Development:** Create a solid foundation for future iterations of the project, including the implementation of advanced features such as user accounts, payment gateways, and inventory management.
 
-![alt text](<Screenshot 2024-10-04 at 8.03.04 AM.png>)
+**Current Features**
 
-login.html
-- I used bootstrap for the login page form.
+*   **Browseable Product Catalog:** Explore a basic catalog of sample supplement products.
+*   **Basic Product Information:** View limited product details for each supplement.
+*   **Static Checkout Page:** A placeholder for a future, fully functional checkout process.
 
+**Planned Features (Future Development)**
 
+*   **User Accounts:** Enable user registration and login, allowing users to manage orders, track their health goals, and receive personalized recommendations.
+*   **Dynamic Product Pages:** Enhance product pages with detailed descriptions, ingredient lists, customer reviews, and high-quality images.
+*   **Secure Checkout:** Implement a fully functional and secure online payment gateway.
+*   **Inventory Management:** Track product stock levels and ensure accurate order fulfillment.
+*   **Admin Dashboard:** Create an administrative interface for managing products, orders, and user accounts.
 
-![alt text](<img/Screenshot 2024-10-04 at 8.06.01 AM.png>)
+**Tools & Technologies**
 
-register.html 
-- I used bootstrap for the register page and also edited the code because I couldnt find the right register form.
+*   **HTML5**, **CSS3**, **JavaScript**
+*   **Bootstrap**
+*   **Version Control (Git)**
+*   **Collaborative Tools (e.g., GitHub, Google Docs)**
 
-![alt text](<img/Screenshot 2024-10-04 at 8.05.26 AM-1.png>)
+**Project Structure**
 
+```
 
+├── css/
+│   ├── login.css
+│   ├── products.css
+│   ├── register.css
+│   └── style.css
+├── img/
+│   ├── ashwagandha.webp
+│   ├── D3+K2.webp
+│   ├── DailyProbiotics.webp
+│   ├── Magnesium.webp
+│   ├── MultiCollagen.webp
+│   ├── Omega-3.webp
+│   ├── VitaminD3.webp
+│   └── VitaminsBackground.webp
+├── Screenshots/
+│   ├── HomePage.png
+│   ├── ProductsPage.png
+│   ├── LoginPage.png
+│   ├── RegisterPage.png
+│   ├── CheckoutPage.png
+├── checkout.html
+├── index.html
+├── login.html
+├── products.html
+└── register.html
+```
 
+**Team**
 
-products.html
-- Displays the vitamins and supplements available for purchase.
+*   **Team Wutang**: Jordan, Jalen, Aloro, Narel, and Thounny
 
-![alt text](<img/Screenshot 2024-10-04 at 8.07.24 AM.png>)
+**Reflection**
 
-
-
-
-checkout.html
-- Payment form to complete the purchases 
-
-![alt text](<img/Screenshot 2024-10-04 at 8.08.06 AM.png>)
+This project has been a valuable learning experience. We've gained practical experience in frontend development, honed our teamwork and communication skills, and developed a deeper understanding of the challenges and rewards of building a web application. We are excited to continue iterating on this project and expanding its capabilities in the future.
