@@ -3,7 +3,10 @@ body{
     padding: 0;
     font-family: Arial;
     font-size: 1.5vw;
-    background-color: #797964;
+    background-image: url(../img/VitaminsBackground.webp);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 nav{
     position: fixed;
@@ -48,12 +51,7 @@ nav ul li a:hover{
     text-decoration: none;
     color: white;
 }
-img{
-    width: 100%;
-    height: auto;
-    background-size: cover;
-    background-position: center;
-}
+
 main{
     position: absolute;
     top:10rem;
@@ -166,7 +164,7 @@ body.checkout main{
     color: #fff;
     text-align:center;
     padding: 5rem;
-    margin-top: -1rem;
+    margin-top: 45rem;
     display: flex;           
     justify-content: center; 
     align-items: center;     
