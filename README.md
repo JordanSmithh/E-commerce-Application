@@ -5,7 +5,7 @@ Homepage/ index.html
 - I added a introduction to my shop and explain what we do and can provide for the customers.
 
 
-![alt text](<img/Screenshot 2024-10-04 at 8.03.04 AM.png>)
+![alt text](<Screenshot 2024-10-04 at 8.03.04 AM.png>)
 
 login.html
 - I used bootstrap for the login page form.
