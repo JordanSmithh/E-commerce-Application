@@ -1,3 +1,5 @@
+
+
 body{
     margin: 0;
     padding: 0;
@@ -7,6 +9,7 @@ body{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    
 }
 nav{
     position: fixed;
@@ -160,13 +163,15 @@ body.checkout main{
     }
   }
   footer {
+    position: fixed;
     background-color:rgba(0, 0, 0, 0.5);
     color: #fff;
     text-align:center;
-    padding: 5rem;
-    margin-top: 45rem;
+    padding: 2rem;
     display: flex;           
     justify-content: center; 
-    align-items: center;     
+    align-items: center; 
+    bottom: 0;
+    width: 100%;    
 }
 
