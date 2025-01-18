@@ -64,7 +64,6 @@ main{
     padding: 1rem;
     box-shadow: 1rem 1rem 1rem #00000088;
     border-radius: 1rem;
-
 }
 
 body.products main,
@@ -164,11 +163,10 @@ body.checkout main{
   }
   footer {
     position: fixed;
-    background-color:rgba(0, 0, 0, 0.5);
+    background-color:rgba(0, 0, 0, 0.3);
     color: #fff;
     text-align:center;
     padding: 2rem;
-    display: flex;           
     justify-content: center; 
     align-items: center; 
     bottom: 0;
